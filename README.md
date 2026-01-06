@@ -1,5 +1,8 @@
 # Evaluating AI-Assisted Decision Quality
 
-This project examines how to evaluate the effectiveness of AI-assisted decision systems when traditional accuracy metrics are insufficient.
+This project evaluates whether a new computer model improves **human decision-making** compared to an existing model, using evidence from a small-scale A/B-style experiment.
 
-Rather than focusing solely on predictive performance, the analysis assesses decision quality, user outcomes, and whether observed improvements justify real-world deployment.
+Rather than focusing on predictive accuracy alone, the analysis assesses **decision quality**, error severity, and whether observed improvements justify deployment in practice.
+
+📄 **Case study:**  
+[Evaluating AI-Assisted Decision Quality](./decision_quality_case_study.md)
